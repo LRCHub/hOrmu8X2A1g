@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "レイニー ブルー",
+  "base_artist": "德永英明",
+  "createdAt": "2025-12-25T01:55:47.828089Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "雨宮天",
+      "has_synced": false,
+      "path": "select/01_レイニー_ブルー_雨宮天.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/02_レイニー_ブルー_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/03_レイニー_ブルー_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": true,
+      "path": "select/04_レイニー_ブルー_Hideaki_Tokunaga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/05_レイニー_ブルー_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "Chris Hart",
+      "has_synced": true,
+      "path": "select/06_レイニー_ブルー_Chris_Hart.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "德永英明",
+      "has_synced": true,
+      "path": "select/07_レイニー_ブルー_德永英明.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "レイニー ブルー (Concert Tour 2024 ALL BEST 3) - Rainy Blue (Concert Tour 2024 All Best 3)",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": true,
+      "path": "select/08_レイニー_ブルー_(Concert_Tour_2024_ALL_BEST_3)_-_Rainy_Blue_(Concert_Tour_2024_All_Best_Hideaki_Tokunaga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "Amamiya Sora",
+      "has_synced": true,
+      "path": "select/09_レイニー_ブルー_Amamiya_Sora.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レイニー ブルー",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_01_レイニー_ブルー_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "レイニー ブルー",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_02_レイニー_ブルー_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "レイニー ブルー",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_03_レイニー_ブルー_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "レイニー ブルー",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_04_レイニー_ブルー_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "レイニー ブルー",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_05_レイニー_ブルー_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "レイニー ブルー",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_06_レイニー_ブルー_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "レイニー ブルー",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_07_レイニー_ブルー_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "レイニー ブルー ～25th Anniversary Track～",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_08_レイニー_ブルー_~25th_Anniversary_Track~_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "レイニーブルー",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_09_レイニーブルー_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "レイニー ブルー ～25th Anniversary Track～",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_10_レイニー_ブルー_~25th_Anniversary_Track~_徳永_英明.txt"
+    }
+  ]
+}
